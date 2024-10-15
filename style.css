@@ -1,0 +1,42 @@
+
+.header .nav{
+    background: #022b0e;
+   display: flex;
+   justify-content: space-around;
+   }
+   
+   .header .nav .link{
+       display: flex;
+       align-items: center;
+       gap: 2rem;
+   }
+   
+   .header .nav .link a{
+       color: whitesmoke;
+       text-decoration: none;
+   }
+   
+   .header .nav .button {
+       border: 2px solid white;
+       padding: .5rem 1.5rem;
+       border-radius: 50px;
+       display: flex;
+       align-items: center;
+       gap: .1rem;
+       cursor: pointer;
+   
+       
+   }
+   
+   header .nav .button img{
+       width: 22px
+   }
+   
+   .header .nav .button button{
+       background: none;
+       color: white;
+       cursor: pointer;
+   }
+   
+
+   
